@@ -1,4 +1,18 @@
-### Image_
+## 🚀 Overview
+This project leverages Unsupervised Representation Learning to model "normality" and detect deviations (anomalies).
+
+## 🧠 Key Algorithms Used:
+- PaDiM (Patch Distribution Modeling): A framework that models the distribution of patches to encapsulate both global and local semantic information.
+- PatchCore: A state-of-the-art method that utilizes a memory bank of "mid-level" features to detect anomalies, offering superior robustness and inference speed.
+
+
+## 🛠️ Technical Stack
+- Framework: PyTorch / Anomalib
+- Dataset: MVTec AD 
+- Metrics: Image-level AUROC (Area Under ROC Curve) and F1-Score.
+
+## 📋 Experimental Results
+Below are the performance metrics (Image-level AUROC and F1-Score) across various industrial categories. These results highlight the effectiveness of PatchCore in handling complex textures (like Grid) and small structural defects (like Screw).
 
 ### Bottle
 **Padim**
