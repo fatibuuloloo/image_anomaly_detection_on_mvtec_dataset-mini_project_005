@@ -18,6 +18,12 @@ Below are the performance metrics (Image-level AUROC and F1-Score) across variou
 **Padim**
 [{'image_AUROC': 0.8511903882026672, 'image_F1Score': 0.8536585569381714}]
 
+![bottle1](Result/bottle/bottle1.png)
+![bottle2](Result/bottle/bottle2.png)
+![bottle3](Result/bottle/bottle3.png)
+![bottle4](Result/bottle/bottle4.png)
+![bottle5](Result/bottle/bottle5.png)
+
 ### Grid
 **Padim**
 [{'image_AUROC': 0.6468532085418701, 'image_F1Score': 0.8395061492919922}]
